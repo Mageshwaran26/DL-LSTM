@@ -13,7 +13,6 @@ The system will take annotated text data as input, preprocess it into suitable n
 The developed model aims to improve entity recognition performance by leveraging the sequential learning capability of LSTMs and handling long-range dependencies in text.
 
 
-<img width="560" height="897" alt="image" src="https://github.com/user-attachments/assets/ba21ca27-abf3-4902-b1b7-c66fc1b317be" />
 
 
 ## DESIGN STEPS
